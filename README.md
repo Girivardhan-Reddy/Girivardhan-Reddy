@@ -16,7 +16,7 @@
   <tr>
     <td width="32%" align="center">
       <br>
-      <img src="./assets/profile.png" alt="Vennapusa Girivardhan Reddy" width="220">
+      <img src="./assets/profile.jpg" alt="Vennapusa Girivardhan Reddy" width="220">
       <br><br>
       <img src="https://img.shields.io/badge/PROFILE-VERIFIED-00FF41?style=for-the-badge&labelColor=0D1117" alt="Verified Profile">
       <br>
